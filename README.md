@@ -1,7 +1,8 @@
 # Tips
 Java based algorithm that uncovers trading patterns through linear regression and Bayesian logic
 
-I wrote this as a sort of tribute to my ten years spent as a waiter while I was working my way through college.
+I wrote this as a sort of tribute to my ten years spent as a waiter while I was working my way through college. Hoping it provides
+some 'tips' that one can use to derive some profit from consistent trading patterns.
 
 The general idea is that there are recognizable trading patterns that can be derived through creating trading rules that are based on 
 technical indicators that are commonly used by day-traders and fund managers. 
